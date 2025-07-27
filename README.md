@@ -35,7 +35,9 @@
 
 ## About
 
-It's a to do list app. What more is there to know about it?
+It’s a todo list app. What more is there to know?
+
+Built as a learning project using SvelteKit, MongoDB, and Docker. It covers basics like form handling, API routes, database integration, and containerized deployment.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
